@@ -1,6 +1,15 @@
-title: Minimal theme
+title: <p align="center"> Tanisha Laddha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/tanisha-laddha-859b8a97/">LinkedIn</a> |
+  <a href="https://github.com/Tanisha123">GitHub</a>
+  
+  <br>   
+  Working as an 8X Certified Salesforce Engineering Manager at Procter & Gamble, Mumbai.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
